@@ -1,9 +1,4 @@
-# SIGNAJ meeting prep — status as of today
-
-Honest scope: this is what a focused ~2-day sprint actually produces. It is
-not a working prototype, not trained, and not run against real patient data.
-Treat it as "I've started building and here's proof the pieces fit together,"
-not "here are results."
+# SIGNAJ
 
 ## 1. Data exploration (`data_exploration/`)
 
